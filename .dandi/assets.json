@@ -5,7 +5,7 @@
 "blob":
 "875e1037-71d3-460d-9943-dffffe6cd2b5",
 "created":
-"2023-02-25T05:45:43.493863+00:00",
+"2023-02-25T05:45:43.493863Z",
 "metadata":
 {
 "@context":
@@ -205,7 +205,7 @@
 ]
 },
 "modified":
-"2023-02-25T05:57:29.521477+00:00",
+"2023-02-25T05:57:29.521477Z",
 "path":
 "sub-Jaq/sub-Jaq_ses-jaq-01_behavior+ecephys.nwb",
 "size":
@@ -217,7 +217,7 @@
 "blob":
 "5d13f0c6-8655-4c70-bc56-5185db41b7d2",
 "created":
-"2023-02-25T08:39:49.546602+00:00",
+"2023-02-25T08:39:49.546602Z",
 "metadata":
 {
 "@context":
@@ -417,7 +417,7 @@
 ]
 },
 "modified":
-"2023-02-25T08:52:51.993452+00:00",
+"2023-02-25T08:52:51.993452Z",
 "path":
 "sub-Jaq/sub-Jaq_ses-jaq-02_behavior+ecephys.nwb",
 "size":
@@ -429,7 +429,7 @@
 "blob":
 "db52aa1a-5630-44fe-b549-2ad44746c401",
 "created":
-"2023-02-25T09:46:47.336052+00:00",
+"2023-02-25T09:46:47.336052Z",
 "metadata":
 {
 "@context":
@@ -629,7 +629,7 @@
 ]
 },
 "modified":
-"2023-02-25T10:08:23.941691+00:00",
+"2023-02-25T10:08:23.941691Z",
 "path":
 "sub-Jaq/sub-Jaq_ses-jaq-03_behavior+ecephys.nwb",
 "size":
@@ -641,7 +641,7 @@
 "blob":
 "0914eba1-be13-401d-ae18-e39050ea069f",
 "created":
-"2023-02-25T05:06:43.307164+00:00",
+"2023-02-25T05:06:43.307164Z",
 "metadata":
 {
 "@context":
@@ -841,7 +841,7 @@
 ]
 },
 "modified":
-"2023-02-25T05:22:07.430240+00:00",
+"2023-02-25T05:22:07.430240Z",
 "path":
 "sub-Jaq/sub-Jaq_ses-jaq-04_behavior+ecephys.nwb",
 "size":
@@ -853,7 +853,7 @@
 "blob":
 "cedb4645-5d26-4319-a7dc-a127ca48f856",
 "created":
-"2023-02-25T13:03:59.841483+00:00",
+"2023-02-25T13:03:59.841483Z",
 "metadata":
 {
 "@context":
@@ -1053,7 +1053,7 @@
 ]
 },
 "modified":
-"2023-02-25T13:27:14.582369+00:00",
+"2023-02-25T13:27:14.582369Z",
 "path":
 "sub-Lotus/sub-Lotus_ses-Lotus-01_behavior+ecephys.nwb",
 "size":
@@ -1065,7 +1065,7 @@
 "blob":
 "61f8f235-3b24-4e6b-88b5-c5a697e64738",
 "created":
-"2023-02-25T10:10:45.854179+00:00",
+"2023-02-25T10:10:45.854179Z",
 "metadata":
 {
 "@context":
@@ -1265,7 +1265,7 @@
 ]
 },
 "modified":
-"2023-02-25T10:32:58.465311+00:00",
+"2023-02-25T10:32:58.465311Z",
 "path":
 "sub-Lotus/sub-Lotus_ses-Lotus-02_behavior+ecephys.nwb",
 "size":
@@ -1277,7 +1277,7 @@
 "blob":
 "d20ef915-fdc4-4914-b172-dd132c2af4c8",
 "created":
-"2023-02-25T11:11:47.338013+00:00",
+"2023-02-25T11:11:47.338013Z",
 "metadata":
 {
 "@context":
@@ -1477,7 +1477,7 @@
 ]
 },
 "modified":
-"2023-02-25T11:20:31.782447+00:00",
+"2023-02-25T11:20:31.782447Z",
 "path":
 "sub-Lotus/sub-Lotus_ses-Lotus-04_behavior+ecephys.nwb",
 "size":
@@ -1489,7 +1489,7 @@
 "blob":
 "e7c270cd-75b2-4b84-87dd-b6bc6b1d7720",
 "created":
-"2023-02-28T03:24:28.212447+00:00",
+"2023-02-28T03:24:28.212447Z",
 "metadata":
 {
 "@context":
@@ -1689,7 +1689,7 @@
 ]
 },
 "modified":
-"2023-02-28T03:33:00.608343+00:00",
+"2023-02-28T03:33:00.608343Z",
 "path":
 "sub-Lotus/sub-Lotus_ses-Lotus-05_behavior+ecephys.nwb",
 "size":
@@ -1701,7 +1701,7 @@
 "blob":
 "fb892f55-f0f5-42ed-adc6-ac59169d8e92",
 "created":
-"2023-02-28T03:56:15.645447+00:00",
+"2023-02-28T03:56:15.645447Z",
 "metadata":
 {
 "@context":
@@ -1901,7 +1901,7 @@
 ]
 },
 "modified":
-"2023-02-28T04:05:56.392977+00:00",
+"2023-02-28T04:05:56.392977Z",
 "path":
 "sub-Lotus/sub-Lotus_ses-Lotus-06_behavior+ecephys.nwb",
 "size":
@@ -1913,7 +1913,7 @@
 "blob":
 "231bc3c9-b534-428e-8064-3cbb8e9996cc",
 "created":
-"2023-02-25T12:02:03.686171+00:00",
+"2023-02-25T12:02:03.686171Z",
 "metadata":
 {
 "@context":
@@ -2113,7 +2113,7 @@
 ]
 },
 "modified":
-"2023-02-25T12:10:22.019888+00:00",
+"2023-02-25T12:10:22.019888Z",
 "path":
 "sub-Monty/sub-Monty_ses-Monty-01_behavior+ecephys.nwb",
 "size":
@@ -2125,7 +2125,7 @@
 "blob":
 "a8730be8-0ad2-4423-b590-0b5ec863cf7a",
 "created":
-"2023-02-25T13:05:04.327923+00:00",
+"2023-02-25T13:05:04.327923Z",
 "metadata":
 {
 "@context":
@@ -2325,7 +2325,7 @@
 ]
 },
 "modified":
-"2023-02-25T13:18:27.636730+00:00",
+"2023-02-25T13:18:27.636730Z",
 "path":
 "sub-Monty/sub-Monty_ses-Monty-02_behavior+ecephys.nwb",
 "size":
@@ -2337,7 +2337,7 @@
 "blob":
 "8519b944-18b5-4223-ba42-af017e287f22",
 "created":
-"2023-02-25T13:51:17.660383+00:00",
+"2023-02-25T13:51:17.660383Z",
 "metadata":
 {
 "@context":
@@ -2537,7 +2537,7 @@
 ]
 },
 "modified":
-"2023-02-25T14:16:30.217480+00:00",
+"2023-02-25T14:16:30.217480Z",
 "path":
 "sub-Monty/sub-Monty_ses-Monty-03_behavior+ecephys.nwb",
 "size":
@@ -2549,7 +2549,7 @@
 "blob":
 "17dde469-fb17-40cd-8649-c9f86a6fbe51",
 "created":
-"2023-02-25T13:41:48.480988+00:00",
+"2023-02-25T13:41:48.480988Z",
 "metadata":
 {
 "@context":
@@ -2749,7 +2749,7 @@
 ]
 },
 "modified":
-"2023-02-25T13:56:16.295508+00:00",
+"2023-02-25T13:56:16.295508Z",
 "path":
 "sub-Monty/sub-Monty_ses-Monty-04_behavior+ecephys.nwb",
 "size":
@@ -2761,7 +2761,7 @@
 "blob":
 "fcb0f726-105c-44bc-8da7-399a26f22b00",
 "created":
-"2023-02-25T11:53:04.893848+00:00",
+"2023-02-25T11:53:04.893848Z",
 "metadata":
 {
 "@context":
@@ -2961,7 +2961,7 @@
 ]
 },
 "modified":
-"2023-02-25T12:01:37.729859+00:00",
+"2023-02-25T12:01:37.729859Z",
 "path":
 "sub-Monty/sub-Monty_ses-Monty-05_behavior+ecephys.nwb",
 "size":
@@ -2973,7 +2973,7 @@
 "blob":
 "445604fb-1352-439d-a518-e2f4dac1ec80",
 "created":
-"2023-02-25T09:12:56.934977+00:00",
+"2023-02-25T09:12:56.934977Z",
 "metadata":
 {
 "@context":
@@ -3173,7 +3173,7 @@
 ]
 },
 "modified":
-"2023-02-25T09:39:13.727554+00:00",
+"2023-02-25T09:39:13.727554Z",
 "path":
 "sub-Peanut/sub-Peanut_ses-Peanut-01_behavior+ecephys.nwb",
 "size":
@@ -3185,7 +3185,7 @@
 "blob":
 "2488701e-23f0-4a7d-8929-9e161d2de8d2",
 "created":
-"2023-02-25T09:58:39.418243+00:00",
+"2023-02-25T09:58:39.418243Z",
 "metadata":
 {
 "@context":
@@ -3385,7 +3385,7 @@
 ]
 },
 "modified":
-"2023-02-25T10:37:29.853728+00:00",
+"2023-02-25T10:37:29.853728Z",
 "path":
 "sub-Peanut/sub-Peanut_ses-Peanut-02_behavior+ecephys.nwb",
 "size":
@@ -3397,7 +3397,7 @@
 "blob":
 "9e89bd59-f2ff-4f71-894e-4eb2198e7762",
 "created":
-"2023-02-25T02:26:43.180051+00:00",
+"2023-02-25T02:26:43.180051Z",
 "metadata":
 {
 "@context":
@@ -3597,7 +3597,7 @@
 ]
 },
 "modified":
-"2023-02-25T02:41:45.317786+00:00",
+"2023-02-25T02:41:45.317786Z",
 "path":
 "sub-Roqui/sub-Roqui_ses-Roqui-01_behavior+ecephys.nwb",
 "size":
@@ -3609,7 +3609,7 @@
 "blob":
 "c2f2d36a-0b6a-411f-9ee6-86d4c70d3669",
 "created":
-"2023-02-25T02:25:06.878167+00:00",
+"2023-02-25T02:25:06.878167Z",
 "metadata":
 {
 "@context":
@@ -3809,7 +3809,7 @@
 ]
 },
 "modified":
-"2023-02-25T02:40:18.103633+00:00",
+"2023-02-25T02:40:18.103633Z",
 "path":
 "sub-Roqui/sub-Roqui_ses-Roqui-02_behavior+ecephys.nwb",
 "size":
@@ -3821,7 +3821,7 @@
 "blob":
 "afacfda0-ea27-49d8-a53a-346520660a9e",
 "created":
-"2023-02-25T04:58:49.571236+00:00",
+"2023-02-25T04:58:49.571236Z",
 "metadata":
 {
 "@context":
@@ -4021,7 +4021,7 @@
 ]
 },
 "modified":
-"2023-02-25T05:32:38.094979+00:00",
+"2023-02-25T05:32:38.094979Z",
 "path":
 "sub-Roqui/sub-Roqui_ses-Roqui-03_behavior+ecephys.nwb",
 "size":
@@ -4033,7 +4033,7 @@
 "blob":
 "83e0f9d6-07c3-4a23-a623-9e680e86c567",
 "created":
-"2023-02-25T03:37:12.890970+00:00",
+"2023-02-25T03:37:12.890970Z",
 "metadata":
 {
 "@context":
@@ -4233,7 +4233,7 @@
 ]
 },
 "modified":
-"2023-02-25T03:50:06.730919+00:00",
+"2023-02-25T03:50:06.730919Z",
 "path":
 "sub-Roqui/sub-Roqui_ses-Roqui-04_behavior+ecephys.nwb",
 "size":
@@ -4245,7 +4245,7 @@
 "blob":
 "a48ce1fe-770e-44ed-a0a8-74effb9b4d65",
 "created":
-"2023-02-25T02:57:16.541923+00:00",
+"2023-02-25T02:57:16.541923Z",
 "metadata":
 {
 "@context":
@@ -4445,7 +4445,7 @@
 ]
 },
 "modified":
-"2023-02-25T03:09:48.785547+00:00",
+"2023-02-25T03:09:48.785547Z",
 "path":
 "sub-Roqui/sub-Roqui_ses-Roqui-05_behavior+ecephys.nwb",
 "size":
@@ -4457,7 +4457,7 @@
 "blob":
 "4830dcda-16e2-4f1e-8dcd-ea427485fc88",
 "created":
-"2023-02-25T01:30:03.812659+00:00",
+"2023-02-25T01:30:03.812659Z",
 "metadata":
 {
 "@context":
@@ -4657,7 +4657,7 @@
 ]
 },
 "modified":
-"2023-02-25T01:37:18.896795+00:00",
+"2023-02-25T01:37:18.896795Z",
 "path":
 "sub-Roqui/sub-Roqui_ses-Roqui-06_behavior+ecephys.nwb",
 "size":
