@@ -39,8 +39,8 @@ assetsSummary:
   - BehavioralEvents
   - ElectricalSeries
 citation: Joshi, Abhilasha (2026) Joshi et al (2023) Dynamic Synchronization between
-  Hippocampal Spatial Representations and the Stepping Rhythm (Version draft) [Data
-  set]. DANDI Archive. https://dandiarchive.org/dandiset/000410/draft
+  Hippocampal Spatial Representations and the Stepping Rhythm (Version 0.260915.1202)
+  [Data set]. DANDI Archive. https://doi.org/10.48324/dandi.000410/0.260915.1202
 contributor:
 - affiliation: []
   email: ajoshineuro@gmail.com
@@ -50,25 +50,39 @@ contributor:
   - dcite:ContactPerson
   schemaKey: Person
 dateCreated: '2023-02-07T02:10:45.942699+00:00'
+datePublished: '2026-09-15T12:02:20.424261+00:00'
 description: 'This dateset includes electrophysiological data from from dorsal CA1
   of rats running on a linear or w-shaped track. Please contact Abhilasha Joshi or
   Loren Frank for more information about this data. '
+doi: 10.48324/dandi.000410/0.260915.1202
 ethicsApproval: []
-id: DANDI:000410/draft
+id: DANDI:000410/0.260915.1202
 identifier: DANDI:000410
 keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000410/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000410/0.260915.1202/assets.yaml
 name: Joshi et al (2023) Dynamic Synchronization between Hippocampal Spatial Representations
   and the Stepping Rhythm
 protocol: []
+publishedBy:
+  endDate: '2026-09-15T12:02:20.424261+00:00'
+  id: urn:uuid:bdb39adc-1adf-453a-a069-ccf6554f9427
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2026-09-15T12:02:20.424261+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:7e02a261-b1d5-4529-a4e3-6935ce263c31
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.3
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000410/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000410/0.260915.1202
+version: 0.260915.1202
 wasGeneratedBy: []
